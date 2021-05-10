@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414568468843",
+    "project_id": "citikey",
+    "storage_bucket": "citikey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414568468843:android:b98d96b8dc752c3d463c2e",
+        "android_client_info": {
+          "package_name": "com.citikey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414568468843-ksek3bvk25auaa44vc7loc4ftaohkmia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYyJX0zd4407pO9XGQaOnk2KZyrxKA5hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414568468843-ksek3bvk25auaa44vc7loc4ftaohkmia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
